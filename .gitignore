@@ -1,0 +1,10 @@
+*.log
+*.user
+*~
+._*
+.DS_Store
+.firebase*
+.vs
+[Bb]in
+[Oo]bj
+public/
